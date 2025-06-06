@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Brightideas Realty",
+        "price": "18,500/Sq.ft",
+        "detail": "Bogaram, Near Keesara, Hydrabad",
+        "image": "../asset/Home1.jpg"
+    },
+    {
+        "name": "Duplex House",
+        "price": "2500/Sq.ft",
+        "detail": "Shamshabad, Hydrabad",
+        "image": "../asset/Home2.jpg"
+    },
+    {
+        "name": "Bomboy Realty",
+        "price": "8500/Sq.ft",
+        "detail": "Mira Road, Mumbai",
+        "image": "../asset/Home3.jpg"
+    },
+    {
+        "name": "Dream House",
+        "price": "6000/Sq.ft",
+        "detail": "Malabar Hill, Mumbai",
+        "image": "../asset/Home4.jpg"
+    },
+    {
+        "name": "Balaji Estate",
+        "price": "4000/Sq.ft",
+        "detail": "cuffe Parade, Mumbai",
+        "image": "../asset/Home5.jpg"
+    },
+    {
+        "name": "Avenue Realty",
+        "price": "9000/Sq.ft",
+        "detail": "Lodhi colony, New Delhi",
+        "image": "../asset/Home6.jpg"
+    },
+    {
+        "name": "Altitude Realty",
+        "price": "3000/Sq.ft",
+        "detail": "Meerut, Delhi",
+        "image": "../asset/Home7.jpg"
+    }
+]

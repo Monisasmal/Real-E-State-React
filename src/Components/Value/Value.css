@@ -1,0 +1,55 @@
+.v-container .image-container{
+    border: 8px solid rgb(173, 173, 173);
+}
+.v-container div{
+    flex: 1;
+}
+.v-right{
+    gap: 0.5rem;
+}
+.accrodion{
+    margin-top: 2rem;
+    border: none;
+}
+.accrodionItem{
+    background: #ffffff;
+    border: 0.8px solid rgba(128, 128, 128, 0.143);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.accrodionItem.expanded{
+    box-shadow: var(--shadow);
+    border-radius: 5px;
+} 
+
+.accrodionButton{
+    background: #ffffff;
+    padding: 1rem;
+    width: 100%;
+    justify-content: space-between;
+    cursor: pointer;
+    /* gap: .5rem; */
+    
+}
+.icon{
+    font-size: 1.5rem;
+    padding: 10px;
+    background: #eeeeff;
+    border-radius: 10px;
+    margin: 0px 20px;
+}
+.icon svg{
+    fill : var(--blue);
+}
+.accrodionButton .primaryText{
+    font-size: 1.5rem;
+    
+}
+@media (max-width: 768px){
+.v-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+}
+}
