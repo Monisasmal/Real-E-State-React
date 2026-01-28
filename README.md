@@ -73,7 +73,21 @@ This is a **strong portfolio project** suitable for frontend interviews.
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/94e5b987-b88c-484f-836d-05a81d4266dc" />
 <img width="1366" height="723" alt="image" src="https://github.com/user-attachments/assets/968ba578-5c81-4835-8d30-baf371cdd49f" />
 
----
+----
+
+## 🙋‍♀️ Author
+
+Manaswini Sasmal
+
+📲 - 6370094643
+ 
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
 
 
 
