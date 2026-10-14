@@ -75,9 +75,7 @@ This is a **strong portfolio project** suitable for frontend interviews.
 
 ----
 
-## 🙋‍♀️ Author
-
-Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
  
